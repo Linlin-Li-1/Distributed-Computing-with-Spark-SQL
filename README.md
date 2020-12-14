@@ -11,7 +11,7 @@ By understanding when to use Spark, either scaling out when the model or data is
 
 This repository includes the following things:
 
-#### 1.[Lecture Notes](https://github.com/Linlin-Li-1/Distributed-Computing-with-Spark-SQL/tree/main/slides)
+#### 1.[Assignments](https://github.com/Linlin-Li-1/Distributed-Computing-with-Spark-SQL/tree/main/assignments)
 
 #### 2.[Quizes](https://github.com/Linlin-Li-1/Distributed-Computing-with-Spark-SQL/tree/main/quizes)
 
