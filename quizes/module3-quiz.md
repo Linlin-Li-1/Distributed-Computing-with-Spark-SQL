@@ -41,4 +41,6 @@
 
 9. Fill in the blanks with the appropriate response below:
 
-A managed table manages both the data and metadata such as the schema and data location and a DROP TABLE command will result in data loss.
+A _________ table manages  _________  and a DROP TABLE command will result in data loss.
+
+- managed, both the data and metadata such as the schema and data location
