@@ -14,5 +14,7 @@ This repository includes the following things:
 
 #### 2.[Quizes](https://github.com/Linlin-Li-1/Distributed-Computing-with-Spark-SQL/tree/main/quizes)
 
+#### 3.[Notebooks](https://github.com/Linlin-Li-1/Distributed-Computing-with-Spark-SQL/blob/main/Distributed-Computing-with-Spark-SQL-1.2.3.dbc)
+
 
 
