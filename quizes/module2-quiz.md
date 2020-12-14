@@ -36,7 +36,7 @@
 
 7. When is it appropriate to use a shuffle join?
 
-- When both tables are very small
+- When both tables are moderately sized or large
 
 8. Which of the following are bottlenecks you can detect with the Spark UI? (Select all that apply.)
 
