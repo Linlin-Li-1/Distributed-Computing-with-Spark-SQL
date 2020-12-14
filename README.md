@@ -10,7 +10,6 @@ The four modules build on one another and by the end of the course are:
 By understanding when to use Spark, either scaling out when the model or data is too large to process on a single machine, or having a need to simply speed up to get faster results, students as me will hone their SQL skills and become a more adept Data Scientist.
 
 This repository includes the following things:
-
 #### 1.[Assignments](https://github.com/Linlin-Li-1/Distributed-Computing-with-Spark-SQL/tree/main/assignments)
 
 #### 2.[Quizes](https://github.com/Linlin-Li-1/Distributed-Computing-with-Spark-SQL/tree/main/quizes)
