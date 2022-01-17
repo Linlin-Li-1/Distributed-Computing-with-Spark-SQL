@@ -10,6 +10,12 @@
 
 - Wide
 
-4. H​ow many tasks were in the last stage of the last job?
+4. How large is our firecalls dataset in memory?
+
+- 59.6
+
+
+5. H​ow many tasks were in the last stage of the last job?
 
 - 2
+
